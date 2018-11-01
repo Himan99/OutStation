@@ -5,17 +5,9 @@ All you have to do to rent out a car is fill somebasic details and location of c
 
 # Screenshots
 ## Renting out a car(lend)
-
+![owner](https://user-images.githubusercontent.com/33774255/47833543-66ec7800-ddc1-11e8-8f0b-e1b8e93916e2.gif)
 ## Rent a car
-
-## Driver activity
-
-## Status tracking driver
-
-## Status tracking owner
-
-## Getting Started
-
+![carrent](https://user-images.githubusercontent.com/33774255/47833693-4113a300-ddc2-11e8-96f3-8ee4cf9a315c.gif)
 
 ### Prerequisites
 
