@@ -55,7 +55,7 @@ ifconfig
 * [Android Studio] (https://developer.android.com/docs/) -  Android app development framework 
 
 
-## Authors
+## Other Authors
 
 * **Mayuri Pawar** - *Driver application and directions api*
 
